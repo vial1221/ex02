@@ -1,7 +1,11 @@
 import 'dart:math';
-void main() {  
+void main() { 
 print('Answer Ex 2:');  
 //  variables used by point1
+var note ='''
+It seems that the Dart language doesn't consider the priotité of the mathematical signs. 
+        Here he calculated the division before the subtraction and this is a mathematical error. Taking into 
+        account the priority of the sign answer would be (5-7) / 8 = -0.25 ''';
 num x,y,z;        
 num result; 
 //  variables used by point2
@@ -20,6 +24,7 @@ y=7;
 z=8;
 result= x-y/z;
 print('Point 1) x-y/z = ${result}');
+print('  Note) ${note}');
 //point 2
 cercle_area=PI*pow(10 , 2);
 print('Point 2) Circle Area = ${cercle_area}');
