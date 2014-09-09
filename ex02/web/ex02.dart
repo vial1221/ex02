@@ -24,7 +24,7 @@ y=7;
 z=8;
 result= x-y/z;
 print('Point 1) x-y/z = ${result}');
-print('  Note) ${note}');
+print(' *Note) ${note}');
 //point 2
 cercle_area=PI*pow(10 , 2);
 print('Point 2) Circle Area = ${cercle_area}');
