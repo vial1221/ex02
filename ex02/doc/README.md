@@ -2,7 +2,7 @@
 
 #ex02
 
-created by Team 9
+Created by Team 9
 
 Creators:
 
@@ -10,4 +10,4 @@ Creators:
   - Catalina Vial
   - Atangane Fontsa
   
- Link Github: https://github.com/vial1221/ex02 
+Link Github: https://github.com/vial1221/ex02 
