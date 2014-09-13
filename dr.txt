@@ -1,0 +1,21 @@
+ex02
+
+pas de web SVPL
+
+ex01
+.git
+.gitignore
+bin
+doc
+pubspec.yaml
+README.md
+
+1. precedence
+
+https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#operators
+
+2. bien
+3. bien
+4. bien
+
+
